@@ -15,6 +15,26 @@ namespace Elemental
         public Form1()
         {
             InitializeComponent();
+            start();
+        }
+
+        public Button btn = new Button();
+        public Label inventoryLabel = new Label();
+
+        public System.Windows.Forms.Label start()
+        {
+            System.Windows.Forms.Label label = new System.Windows.Forms.Label();
+            this.Controls.Add(inventoryLabel);
+            label.Top = 20;
+            label.Left = 15;
+            label.Text = "Daddy";
+            Console.WriteLine("Made Button");
+            return inventoryLabel;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            start();
         }
     }
 }
