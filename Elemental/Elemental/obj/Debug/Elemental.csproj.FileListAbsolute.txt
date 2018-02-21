@@ -1,0 +1,10 @@
+G:\Code\Projects\C#\Elemental\Elemental\bin\Debug\Elemental.exe.config
+G:\Code\Projects\C#\Elemental\Elemental\bin\Debug\Elemental.exe
+G:\Code\Projects\C#\Elemental\Elemental\bin\Debug\Elemental.pdb
+G:\Code\Projects\C#\Elemental\Elemental\obj\Debug\Elemental.csprojResolveAssemblyReference.cache
+G:\Code\Projects\C#\Elemental\Elemental\obj\Debug\Elemental.Form1.resources
+G:\Code\Projects\C#\Elemental\Elemental\obj\Debug\Elemental.Properties.Resources.resources
+G:\Code\Projects\C#\Elemental\Elemental\obj\Debug\Elemental.csproj.GenerateResource.Cache
+G:\Code\Projects\C#\Elemental\Elemental\obj\Debug\Elemental.csproj.CoreCompileInputs.cache
+G:\Code\Projects\C#\Elemental\Elemental\obj\Debug\Elemental.exe
+G:\Code\Projects\C#\Elemental\Elemental\obj\Debug\Elemental.pdb
